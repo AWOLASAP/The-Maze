@@ -1,0 +1,42 @@
+{
+  "up": [
+    "w",
+    "up"
+  ],
+  "down": [
+    "s",
+    "down"
+  ],
+  "left": [
+    "a",
+    "left"
+  ],
+  "right": [
+    "d",
+    "right"
+  ],
+  "pause": [
+    "p",
+    ""
+  ],
+  "confirm": [
+    "return",
+    "space"
+  ],
+  "back": [
+    "escape",
+    "m"
+  ],
+  "quit": [
+    "q",
+    "escape"
+  ],
+  "restart": [
+    "r",
+    ""
+  ],
+  "credits": [
+    "c",
+    ""
+  ]
+}
